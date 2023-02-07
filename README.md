@@ -385,16 +385,13 @@ The following python modules are also used in the application. Remember to insta
 
 ## Installation Guide
 
-There are three installations neccesary for the program to run. Make sure these are installed via terminal (for MacOS) or GitBash (Windows/Linux)
+There are fo installations neccesary for the program to run. Make sure these are installed via terminal (for MacOS) or GitBash (Windows/Linux)
 
 '''python
     pip3 install pandas
     pip3 install numpy
     pip3 install pathlib
-    pip install python-dotenv
-    pip install alpaca-trade-api
-    conda install -c anaconda requests
-    conda install -c jmcmurray json
+    conda install -c pyviz hvplot geoviews
 '''
 
 
