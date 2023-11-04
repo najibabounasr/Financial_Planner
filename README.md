@@ -76,10 +76,10 @@ Follow the steps outlined in the starter notebook to complete the following:
 2. Configure and execute a Monte Carlo Simulation of `500` runs and `30` years for the `40/60` portfolio.
 
 3. Plot the simulation results and the probability distribution/confidence intervals.
-
-    ![monte carlo](Images/monte-carlo.png)
+   
+![monte carlo](Images/monte-carlo.png)
         
-    ![histogram](Images/histogram.png)
+![histogram](Images/histogram.png)
 
 #### Retirement Analysis
 
